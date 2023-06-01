@@ -11,7 +11,7 @@ To play the game, follow these steps:
 3. Open the `index.html` file in a web browser.
 4. The game will load, and you will see the game interface.
 
-or you can simply click this link [rock paper scissors game.](https://acorbillo.github.io/rock_paper_scissors_game/)
+or you can simply click this link [rock paper scissors game.](https://acorbillo.github.io/rock-paper-scissors-game/)
 
 ## Game Rules
 
